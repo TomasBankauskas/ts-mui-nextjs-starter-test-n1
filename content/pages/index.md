@@ -27,7 +27,7 @@ sections:
       url: /images/karsten-winegeart-M3mCahAs5Qg-unsplash.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Cards Section Component test
     subtitle: Section subtitle here
     items:
       - type: Card
