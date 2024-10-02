@@ -20,7 +20,7 @@ sections:
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
-        variant: outlined
+        variant: contained
         color: secondary
     image:
       type: Image
