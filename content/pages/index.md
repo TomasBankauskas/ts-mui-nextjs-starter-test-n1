@@ -21,7 +21,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
-        color: primary
+        color: secondary
     image:
       type: Image
       url: /images/karsten-winegeart-M3mCahAs5Qg-unsplash.jpg
