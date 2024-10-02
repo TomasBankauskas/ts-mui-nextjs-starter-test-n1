@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component test
-    subtitle: Section subtitle here
+    subtitle: Section subtitle here test
     items:
       - type: Card
         title: First Card Title
