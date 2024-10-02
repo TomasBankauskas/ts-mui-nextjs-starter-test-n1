@@ -64,7 +64,7 @@ sections:
         title: Third Card Title
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/christopher-ayme-ocZ-_Y7-Ptg-unsplash.jpg
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
